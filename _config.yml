@@ -1,8 +1,8 @@
 ### GENERAL SETTINGS ###
 
 # Site settings
-title: SOLID.
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: WAO! 2016 
+description: "We Are Open Festival 2016 - Il festival della creatività e dell'innovazione dal basso "
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
 url: "http://yourdomain.com"
@@ -26,28 +26,65 @@ colors:  #in hex code if not noted else
 
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
 social:
-  - title: dribbble
-    url:
   - title: facebook
     url:
   - title: twitter
     url: 
   - title: instagram
     url: 
-  - title: tumblr
-    url: 
     
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
   - lines: 
-    - Some Ave, 987,
-    - 23890, New York,
-    - United States.
-email: hello@solidtheme.com
-tel: +34 8493-4893
+    - Via Mario Giuntini 192
+    - Polo Tecnologico di Navacchio
+    - Cascina (PI)
+email: info@fablabtoscana.it
 
 
 ### GENERAL DATA FOR VARIOUS LOCATIONS ###
+
+
+events:
+    - name: 4 Giugno 2016
+      items:
+        - title: Apertura evento
+          time: ore 10:00
+          where: Palco
+        - title: Workshop per le scuole a rotazione ogni 60 minuti
+          time: ore 10:30 - 13:00
+          where: Zona Workshop
+        - title: Light talk, popup makers
+          time: ore 14:30 - 16:00
+          where: Zona Workshop
+        - title: Workshop professionali
+          time: ore 16:00 - 18:00
+          where: Zona Workshop
+        - title: Attività negli stand
+          time: ore 10:00 - 19:00
+          where: Area Espositiva
+        - title: Live Music - Urbanika in concerto
+          time: ore 19:00 - 23:00
+          where: Palco
+    - name: 5 Giugno 2016
+      items:
+        - title: Workshop per le scuole a rotazione ogni 60 minuti
+          time: ore 10:30 - 13:00
+          where: Zona Workshop
+        - title: Light talk, popup makers
+          time: ore 14:30 - 16:00
+          where: Zona Workshop
+        - title: Attività negli stand
+          time: ore 10:00 - 19:00
+          where: Area Espositiva
+        - title: Wrap up
+          time: ore 18:30 - 19:00
+          where: Palco
+        - title: Chiusura evento
+          time: ore 19:00
+          where: Palco
+          
+
     
 # Members information. Shown on About page.
 members:
@@ -100,7 +137,7 @@ clients:
     img: client04.png
     
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+about: "WAO! 2016 E' il primo festival in Toscana a celebrare l'inventiva e la creatività dei makers a servizio di scuole, aziende e istituzioni"
 
 # Testimonial content. Shown on Home and About page. 
 testimonial:
