@@ -4,7 +4,7 @@
 title: WAO! 2016 
 description: "We Are Open Festival 2016 - Il festival della creatività e dell'innovazione dal basso "
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
-baseurl: "/wao2016/" #important: start with /
+baseurl: "/wao2016" #important: start with /
 url: "http://fablabtoscana.github.io"
 
 # Build settings
