@@ -8,35 +8,47 @@ permalink: /
     <div class="container">
         <div class="row centered">
             <div class="col-md-4">
-                <i class="fa fa-heart-o"></i>
-                <h4>Handsomely Crafted</h4>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-                <p><br/><a href="#" class="btn btn-theme">More Info</a></p>
+                <img src="{{ "/assets/img/partners/lg_mw.png" | prepend: site.baseurl }}" style="padding-top:10px">
+                <p>Il Festival WAO 2016 è uno tra i 400 eventi organizzati in occasione della European Maker Week,
+                    promossa dalla Commissione Europea e realizzata da Maker Faire Rome e StartUp Europe.</p>
+                <p><br/><a href="http://europeanmakerweek.eu" class="btn btn-theme">Maggiori info</a></p>
             </div>
             <div class="col-md-4">
-                <i class="fa fa-flask"></i>
-                <h4>Retina Ready</h4>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-                <p><br/><a href="#" class="btn btn-theme">More Info</a></p>
+                <i class="fa fa-wrench"></i>
+                    <h4>Partecipa anche tu</h4>
+                <p>Puoi partecipare al Festival con un workshop, un talk, uno stand o presentando un progetto nelle sessioni Popup Makers.</p>
+                <p><br/><a href="http://goo.gl/forms/ht5YYvljsh" class="btn btn-theme">REGISTRATI OGGI</a></p>
             </div>
             <div class="col-md-4">
-                <i class="fa fa-trophy"></i>
-                <h4>Quality Theme</h4>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-                <p><br/><a href="#" class="btn btn-theme">More Info</a></p>
+                <i class="fa fa-suitcase"></i>
+                <h4>Diventa Partner</h4>
+                <p>Un invito rivolto a tutte le aziende che vogliono partecipare sostenendo l'evento e contribuendo con attività interattive o come media partner.</p>
+                <p><br/><a href="{{ "/partner" | prepend: site.baseurl }}" class="btn btn-theme">Maggiori info</a></p>
             </div>		 				
         </div>
     </div><! --/container -->
 </div><! --/service -->
 
-{% include portfolio.html title="LATEST WORKS" limit=10 %}
+
+<hr>
+
+<div class="container">
+    <div class="row centered">
+        <div class="col-md-12">
+            <a href="http://goo.gl/forms/ht5YYvljsh"><img style="width: 80%" src="{{ "/assets/img/call4projects.jpg" | prepend: site.baseurl }}"></a>
+        </div>
+    </div>
+</div>
+
+<hr>
 
 <div class="container mtb">
     <div class="row">
         <div class="col-lg-4 col-lg-offset-1">
-            <h4>More About Our Agency.</h4>
-            <p>{{ site.about }}</p>
-            <p><br/><a href="{{ "/about/" | prepend: site.baseurl }}" class="btn btn-theme">More Info</a></p>
+            <h4>Organizzatore</h4>
+            <img class="img-responsive" src="{{ "/assets/img/organizer.png" | prepend: site.baseurl }}">
+            <p>{{ site.organizer.bio }}</p>
+            <p><br/><a href="{{ site.organizer.url }}" class="btn btn-theme">Maggiori info</a></p>
         </div>
 
         <div class="col-lg-3">
@@ -48,7 +60,7 @@ permalink: /
         </div>
 
         <div class="col-lg-3">
-            <h4>Latest Posts</h4>
+            <h4>Ultimi Post</h4>
             <div class="hline"></div>
             {% for post in site.categories['blog'] limit:5 %} 
                 <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}.</a></p>
