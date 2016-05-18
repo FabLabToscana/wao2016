@@ -4,8 +4,8 @@
 title: WAO! 2016 
 description: "We Are Open Festival 2016 - Il festival della creatività e dell'innovazione dal basso "
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
-baseurl: "/wao2016" #important: start with /
-url: "http://fablabtoscana.github.io"
+baseurl: "" #important: start with /
+url: "http://waofestival.com"
 
 # Build settings
 markdown: kramdown
@@ -27,20 +27,21 @@ colors:  #in hex code if not noted else
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
 social:
   - title: facebook
-    url:
+    url: http://facebook.com/fablabtoscana
   - title: twitter
-    url: 
+    url: http://twitter.com/fablabtoscana
   - title: instagram
-    url: 
+    url: https://www.instagram.com/fablabtoscana/
     
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
   - lines: 
+    - Fab Lab Toscana
     - Via Mario Giuntini 192
     - Polo Tecnologico di Navacchio
     - Cascina (PI)
 email: info@fablabtoscana.it
-
+website: http://www.fablabtoscana.it
 
 ### GENERAL DATA FOR VARIOUS LOCATIONS ###
 
@@ -85,6 +86,10 @@ events:
           where: Palco
           
 
+organizer:
+    bio: Fab Lab Toscana è un laboratorio distribuito per la fabbricazione digitale. Nei nodi di Firenze, Siena, Cascina e Contea è possibile imparare e usare tutte le tecniche di fabbricazione con macchinari all'avanguardia e personale altamente qualificato. Il laboratorio fornisce il programma di formazione internazionale Fab Academy, organizza workshop ed eventi aperti al pubblico e collabora con Istituzioni, Scuole e Università per rendere la fabbricazione digitale accessibile a tutto il territorio toscano.
+    url: http://www.fablabtoscana.it
+
     
 # Members information. Shown on About page.
 members:
@@ -127,14 +132,22 @@ members:
     
 # Clients information. Shown on Home and About pages.
 clients:
-  - name: dribbble
-    img: client01.png
-  - name: Code is Poetry
-    img: client02.png
-  - name: Vimeo
-    img: client03.png
-  - name: VimeoPro
-    img: client04.png
+  - name: Polo Tecnologico
+    img: polo.png
+    desc:
+    website: http://www.polotecnologico.it
+  - name: Università di Siena
+    img: unisi.jpg
+    website: http://santachiaralab.unisi.it
+  - name: Trotec
+    img: trotec.jpg
+    website: http://www.troteclaser.com/it-IT/Pages/Laser_systems.aspx
+  - name: Roland DG
+    img: roland.jpg
+    website: http://www.rolanddg.it/it
+  - name: Eu Maker Week
+    img: lg_mw.png
+    website: http://europeanmakerweek.eu
     
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
 about: "WAO! 2016 E' il primo festival in Toscana a celebrare l'inventiva e la creatività dei makers a servizio di scuole, aziende e istituzioni"
