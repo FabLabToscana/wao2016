@@ -131,7 +131,28 @@ members:
         url: http://twitter.com/handle
     
 # Clients information. Shown on Home and About pages.
-clients:
+clients: 
+    - name: Trotec
+      img: trotec.jpg
+      website: http://www.troteclaser.com/it-IT/Pages/Laser_systems.aspx
+    - name: Roland DG
+      img: roland.jpg
+      website: http://www.rolanddg.it/it
+    - name: KUKA
+      img: kuka.png
+      website: http://www.kuka-robotics.com/italy/it/
+    - name: CampuStore
+      img: campustore.png
+      website: http://www.campustore.it/
+    - name: ADS Group
+      img: ads.png
+      website: https://www.assembly.it/
+    - name: UDOO
+      img: udoo.png
+      website: http://www.udoo.org/
+
+
+partners:
   - name: Polo Tecnologico
     img: polo.png
     desc:
@@ -139,15 +160,12 @@ clients:
   - name: Università di Siena
     img: unisi.jpg
     website: http://santachiaralab.unisi.it
-  - name: Trotec
-    img: trotec.jpg
-    website: http://www.troteclaser.com/it-IT/Pages/Laser_systems.aspx
-  - name: Roland DG
-    img: roland.jpg
-    website: http://www.rolanddg.it/it
-  - name: Eu Maker Week
+  - name: EU Maker Week
     img: lg_mw.png
     website: http://europeanmakerweek.eu
+  - name: Comune di Cascina
+    img: comune.png
+    website: http://www.comune.cascina.pi.it/
     
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
 about: "WAO! 2016 E' il primo festival in Toscana a celebrare l'inventiva e la creatività dei makers a servizio di scuole, aziende e istituzioni"
