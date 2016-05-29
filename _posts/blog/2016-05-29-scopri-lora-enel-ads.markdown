@@ -24,7 +24,7 @@ LoRa è un mezzo economico, innanzi tutto perchè basato su frequenze libere, ma
 
 Non è difficile dedurre che la tecnologia LoRa possa diventare un vero e proprio apripista per trasformare l'IoT da hype in realtà concreta.
 
-<p class="lead">Per questo motivo sia <a href="http://enel.it">Enel</a>, main partner di WAO Festival, che <a href="http://assembly.it">ADS</a> una delle più importanti società che si occupano di IT in Italia, fornirnanno durante il nostro evento un'ampia copertura della tecnologia LoRa e delle sue applicazioni.</p>
+<p class="lead">Per questo motivo sia <a href="http://enel.it">Enel</a>, main partner di WAO Festival, che <a href="http://assembly.it">ADS</a>, una delle più importanti società che si occupano di IT in Italia, fornirnanno durante il nostro evento un'ampia copertura della tecnologia LoRa e delle sue applicazioni.</p>
 
 Il track Internet of Things, realizzato con la loro collaborazione, inizierà Sabato 4 Mattina subito dopo l'apertura del Festival con un workshop di introduzione all'Internet of Things destinato ai ragazzi delle scuole partecipanti.
 
