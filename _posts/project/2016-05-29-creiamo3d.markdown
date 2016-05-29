@@ -1,0 +1,21 @@
+---
+layout: project
+title:  "Creiamo in 3D"
+categories:
+- project
+img: creiamoin3d.png
+thumb: thumb02.jpg
+tagged: makerspace
+website: http://creiamo3d.it/
+---
+
+#### Creiamo in 3D 
+Creiamo in 3D è il primo Makerspace di Pisa. In questo spazio tutti i soci possono apprendere le basi della progettazione con strumenti open-source e usufruire delle attrezzature condivise per la realizzazione di progetti DIY.
+
+**Profilo**
+Il Makerspace Creiamo in 3D nasce per promuovere nel territorio l'open-source, la fabbricazione digitale e la cultura Maker
+
+#### Attività proposte
+
+Il Makerspace Creiamo in 3D intende illustrare, durante lo svolgimento dell'evento, le attività di formazione e i progetti DIY sviluppati in seno ad esso.
+

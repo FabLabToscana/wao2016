@@ -1,0 +1,22 @@
+---
+layout: project
+title:  "GULLI"
+categories:
+- project
+img: gulli.png
+thumb: thumb02.jpg
+tagged: open-hardware, arduino, linux
+website: http://www.linux.livorno.it/
+---
+
+#### G.U.L.L.I,. Livorno
+
+Il G.U.L.LI. – Gruppo Utenti Linux Livorno, associazione culturale senza fini di lucro ha come oggetto sociale la diffusione dell’Open Source ed in particolare il sistema operativo Linux. Nata alla fine del 2004 per opera di un ristretto gruppo di appassionati informatici, conta più di 200 iscritti alla mailing-list.
+
+**Profilo**
+
+Formazione, corsi, Arduino, programmazione, GNUlinux, trashware, ecoware 
+
+#### Attività proposte
+
+linux install party - supporto linux - divulgazione open source

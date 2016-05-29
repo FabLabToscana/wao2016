@@ -1,0 +1,39 @@
+---
+layout: project_udoo
+title:  "UDOO"
+categories:
+- project
+img: UDOO.png
+thumb: thumb02.jpg
+tagged: open-hardware, arduino, linux, udoo
+website: http://udoo.org
+---
+
+#### UDOO
+
+L’avete sentito da tutte le parti: il PC così come lo conosciamo oggi è condannato. Stiamo vivendo nell’Era Post PC, in cui le vendite del Mac declinano e ogni grosso player strizza
+l’occhio all’Open Source. E ciononostante non vediamo queste gigantesche fabbriche di idee proporre nuovi rivoluzionari concept per risolvere l’enigma. Che cosa rivoluzionerà il mondo dei Personal Computer?
+
+Ma oggi siamo di ritorno dal futuro, e l’abbiamo visto. Si chiama [UDOO X86](http://bit.ly/FabLabToscana) ed ecco perché siamo rimasti così intrigati.
+
+UDOO X86 non è un comune PC: manca il case e la ventola. Troppo sottile, troppo piccolo per un PC. Non è nemmeno uno smartphone e, indovina? Neanche un wearable.
+
+Ma allora che cos’è?
+
+UDOO X86 è molte cose.
+
+<p class="lead">
+Vieni a scoprire la nuova UDOO x86 allo stand UDOO tutto Sabato 4 Giugno!
+</p>
+
+
+Prima di tutto **UDOO X86 è un impressionante rimpiazzo per il tuo PC a un prezzo stracciato​**. Quello di cui stiamo parlando è una piattaforma Intel, con processori Intel Quad
+Core pensati per il mondo PC. E’ la scheda per Maker più potente del mondo, 10 volte più veloce di Raspberry Pi 3. Questo mostra fa girare fino a 3 schermi in 4K contemporaneamente, e può far girare Windows (persino Windows 10), Linux e anche Android. Ci sono tre modelli su Kickstarter, chiamati Basic, Advanced e Ultra, e la potenza varia da 2 GHz / 2 GB di RAM per UDOO X86 Basic, disponibile a $89, fino ad arrivare a UDOO X86 Ultra, con 2.56 GHz e 8 GB di RAM, disponibile per $209. In pratica ha performance comparabili con molti netbook sul mercato a un terzo del prezzo (se non un quinto). Attacca un modulo Wi­Fi esterno (incluso in molti reward) e sei pronto per guardare film in streaming da Netflix. Attacca un joypad e gioca a migliaia di giochi a cui già giochi sul tuo PC in multiplayer online. Attacca una tastiera e un mouse e avrai una workstation professionale che non ti lascerà mai a piedi.
+
+In secondo luogo **UDOO X86 è un Arduino 101 a tutti gli effetti**.​ Ha lo stesso pinout layout di Arduino 101, in altre parole è compatibile al 100% con qualsiasi shield, sensore o attuatore costruito per funzionare con Arduino UNO e 101. Può persino far girare l’Arduino IDE direttamente dal processore interno. Ehi, aspetta: non è come un Arduino 101. UDOO X86 è un Arduino 101, solo che si chiama UDOO X86. Bluetooth Low Energy, accelerometro a 6 assi e magnetometro a 6 assi sono inclusi.
+
+Infine ­ e qui sta il futuro ­ UDOO X86 è qualsiasi cosa tu ci faccia. Ecco perché la compagnia si chiama UDOO e si pronuncia “you do”. 
+
+<p class="lead">Finora i maker hanno costruito Lunar Rover, hackerato auto elettriche e creato robot e stampanti 3D con UDOO. Chissà cosa faranno le persone con UDOO. Solo il tempo e l’immaginazione potranno dirlo.</p>
+
+UDOO X86 ha raggiunto sinora 700 mila dollari su Kickstarter rispetto a un obiettivo prefissato di 100 mila dollari. Il prodotto è il terzo della linea UDOO, che ha raccolto fin qui oltre 1,5 milioni attraverso tre campagne su Kickstarter. Il prodotto è interamente made in Italy, fatto da due compagnie Italiane: SECO, un produttore di tecnologia embedded con oltre 35 anni di esperienza, e AIDILAB, un laboratorio di Interaction Design.

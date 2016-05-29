@@ -1,0 +1,28 @@
+---
+layout: project
+title:  "Golem Empoli"
+categories:
+- project
+img: golem.png
+thumb: thumb02.jpg
+tagged: open-hardware, arduino, linux, udoo
+website: http://golem.linux.it/wp/
+---
+
+#### GOLEM, Empoli
+
+Il Golem (Gruppo Operativo Linux di Empoli) è un Linux User Group, ovvero un'associazione di volontari che si occupano della promozione di software libero (e nella maggior parte dei casi gratuito) e di sistemi operativi basati sul kernel Linux. Inoltre ci occupiamo di Trashware, ovvero recupero di vecchi computer per poterli donare a chi ne ha bisogno, e di hardware libero (principalmente su piattaforme Arduino e Raspberry PI).
+
+
+**Profilo** 
+
+"Il GOLEM (Gruppo Operativo Linux Empoli) è un Linux User Group che si occupa di software e hardware libero e recupero materiale informatico per fini sociali.
+Le attività principali dell’associazione sono: corsi sul software libero, Trashware, Trash!art, partecipazioni a convegni, organizzazione di Linux Day ed altro ancora."
+
+#### Attività proposte
+
+Attività e progetti da stand: giochi e dimostrazioni con applicativi open (in partcolare FretsOnFire, clone di Guitar Hero; Progetto di bomba da softair realizzata con Arduino)
+
+Workshop: abbiamo a disposizione 15 kit Arduino per svolgere attività di workshop
+
+Siamo disponibili a collaborare con altri LUG per talk o workshop collettivi

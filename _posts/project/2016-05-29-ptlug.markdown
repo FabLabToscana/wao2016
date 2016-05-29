@@ -1,0 +1,18 @@
+---
+layout: project
+title:  "PT LUG"
+categories:
+- project
+img: ptlug.png
+thumb: thumb02.jpg
+tagged: open-hardware, arduino, linux
+website: http://www.ptlug.org/
+---
+
+#### PT Lug - Fab Lab Pistoia
+
+Il PtLug, fondato nel 2004, è un insieme di professionisti appassionati di informatica ed elettronica, che mettono a disposizione del pubblico la propria competenza e il proprio impegno, con lo scopo di divulgare la conoscenza dell’informatica nella popolazione. Nel corso degli anni ci siamo evoluti fino a diventare, nel 2014, il Fab Lab Pistoia.
+
+#### Attività proposte
+
+Esposizioni dei nostri progetti basati su arduino e raspberry, Stampanti 3d, robot Arm, risparmio energetico.
